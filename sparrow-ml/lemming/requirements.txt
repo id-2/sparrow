@@ -6,6 +6,6 @@ pypdf
 python-box
 unstructured[all-docs]
 typer[all]
-fastapi==0.108.0
+fastapi==0.109.1
 uvicorn[standard]
 # add pdf2htmlEX support for RAG pipeline with LlamaIndex and Unstructured
