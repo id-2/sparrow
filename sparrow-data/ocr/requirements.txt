@@ -5,4 +5,4 @@ torchaudio
 datasets==2.10.1
 python-doctr==0.6.0
 paddleocr==2.7.0.3
-paddlepaddle==2.5.2
+paddlepaddle==2.6.1
