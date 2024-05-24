@@ -3,10 +3,10 @@ torch==1.13.1
 torchvision
 torchaudio
 datasets==2.10.1
-fastapi==0.96.0
+fastapi==0.109.1
 python-doctr==0.6.0
 paddleocr==2.7.0.3
-paddlepaddle==2.5.2
+paddlepaddle==2.6.1
 uvicorn[standard]
 rapidfuzz<3.0
 extract-msg==0.39.2
